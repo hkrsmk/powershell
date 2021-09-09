@@ -9,3 +9,6 @@ A simple wrapper to make 7zip extraction and compression work similarly to the z
 
 ## 7zip_unzip_function.ps1
 This is more similar to the zip command in Linux bash shell. Run the file, and then you should be able to use it. Instructions in the comments and the 'help' function.
+
+## zip_with_compress.ps1
+update 7zip_unzip.ps1 with an option to modify compression level
