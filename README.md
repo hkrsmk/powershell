@@ -12,3 +12,6 @@ This is more similar to the zip command in Linux bash shell. Run the file, and t
 
 ## zip_with_compress.ps1
 update 7zip_unzip.ps1 with an option to modify compression level
+
+## zip_with_LZMA.ps1
+update `zip_with_compress.ps1` with an option for LZMA + code refactor (only one line necessary)
